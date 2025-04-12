@@ -45,4 +45,4 @@ jobs:
           context: .
           platforms: linux/amd64
           push: true
-          tags: ghcr.io/thatfave/vert:latest
+          tags: ghcr.io/ThatFave/VERT:latest
